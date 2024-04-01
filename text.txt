@@ -1,0 +1,10 @@
+git init .
+git remote add orgin 주소
+
+git add .
+
+git pull origin main
+
+git commit -m "comment & message"
+
+git push origin main
